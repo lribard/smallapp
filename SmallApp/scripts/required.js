@@ -4,6 +4,7 @@
 	return this[x];
 }
 
+// un autre essai
 
 function rangedRandom(from, to)
 {
