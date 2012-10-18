@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><EntityModelCatalog>
+
+<dbInfo name="Model" uuid="DEB2380315EE8E47AF7052ECFC4FADBC"/>
+
+<extraProperties ____objectunic="true" version="1">
+
+	<classes ____objectunic="true">
+
+		<Employee ____objectunic="true" panelColor="rgb(141, 179, 226)">
+
+			<panel ____objectunic="true" isOpen="true" pathVisible="true">
+
+				<position ____objectunic="true" X="74" Y="44"/>
+</panel>
+</Employee>
+
+		<Company ____objectunic="true" panelColor="#76923C">
+
+			<panel ____objectunic="true" isOpen="true" pathVisible="true">
+
+				<position ____objectunic="true" X="511" Y="49"/>
+</panel>
+</Company>
+</classes>
+
+	<model ____objectunic="true"/>
+</extraProperties>
+</EntityModelCatalog>
