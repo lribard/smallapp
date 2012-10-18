@@ -4,8 +4,6 @@
 	return this[x];
 }
 
-// un autre essai
-
 function rangedRandom(from, to)
 {
 	from = from || 0;
@@ -14,6 +12,4 @@ function rangedRandom(from, to)
 	return Math.round((Math.random() * range) + from);
 }
 
-
-//ceci est un test  
 
